@@ -15,7 +15,6 @@ Panduan ini menjelaskan langkah-langkah untuk menyiapkan lingkungan pengembangan
   - [7. Install Ekstensi PHP Tambahan (Opsional)](#7-install-ekstensi-php-tambahan-opsional)
   - [8. Restart Apache](#8-restart-apache)
   - [9. Periksa Status Apache](#9-periksa-status-apache)
-- [Kesimpulan](#kesimpulan)
 
 ## Prasyarat
 
