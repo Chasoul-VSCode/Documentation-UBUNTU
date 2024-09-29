@@ -23,11 +23,6 @@ installer FLutter - Laravel, xamppp, and connect to database
 - [PLaylist Content](#prasyarat)
     - [1. Linux Installation with chasoul.uix ](#9-periksa-status-apache)
 
-## Prasyarat
-
-- Ubuntu terinstal (disarankan versi terbaru).
-- Akses ke terminal dengan hak akses `sudo`.
-
 ## Langkah-langkah Instalasi
 
 ### 1. Update dan Upgrade Sistem
