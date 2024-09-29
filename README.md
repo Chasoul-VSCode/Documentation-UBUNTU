@@ -19,6 +19,7 @@ installer FLutter - Laravel, xamppp, and connect to database
   - [12. Install Ekstensi PHP Tambahan (Opsional)](#7-install-ekstensi-php-tambahan-opsional)
   - [13. Restart Apache](#8-restart-apache)
   - [14. Periksa Status Apache](#9-periksa-status-apache)
+  - [15. Periksa Android Studio Permision](#9-periksa-status-apache)
 - [PLaylist Content](#prasyarat)
     - [1. Linux Installation with chasoul.uix ](#9-periksa-status-apache)
 
