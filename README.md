@@ -35,3 +35,11 @@ sudo apt update
 
 # Install new PHP 8.3 packages
 sudo apt install php8.3 php8.3-cli php8.3-{bz2,curl,mbstring,intl}
+php -v
+
+# Install node js
+sudo apt-get install -y curl
+curl -fsSL https://deb.nodesource.com/setup_22.x -o nodesource_setup.sh
+sudo -E bash nodesource_setup.sh
+sudo apt-get install -y nodejs
+node -v
