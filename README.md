@@ -26,10 +26,12 @@ FUll Setup? instagram : chasoul.uix
 
 ## Langkah-langkah Instalasi
 
-### 1. Update dan Upgrade Sistem
-
 Pertama, buka terminal dan jalankan perintah berikut:
 
 ```bash
+# Upgrade System
 sudo apt update && sudo apt upgrade -y
+sudo apt update
 
+# Install new PHP 8.3 packages
+sudo apt install php8.3 php8.3-cli php8.3-{bz2,curl,mbstring,intl}
