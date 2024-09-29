@@ -12,9 +12,12 @@ Panduan ini menjelaskan langkah-langkah untuk menyiapkan lingkungan pengembangan
   - [4. Install Node.js](#4-install-nodejs)
   - [5. Install Apache2](#5-install-apache2)
   - [6. Install MySQL (Opsional)](#6-install-mysql-opsional)
-  - [7. Install Ekstensi PHP Tambahan (Opsional)](#7-install-ekstensi-php-tambahan-opsional)
-  - [8. Restart Apache](#8-restart-apache)
-  - [9. Periksa Status Apache](#9-periksa-status-apache)
+  - [7. Install SQLITE3](#6-install-mysql-opsional)
+  - [8. Install FLutter SDK](#6-install-mysql-opsional)
+  - [9. Install Android Studio](#6-install-mysql-opsional)
+  - [10. Install Ekstensi PHP Tambahan (Opsional)](#7-install-ekstensi-php-tambahan-opsional)
+  - [11. Restart Apache](#8-restart-apache)
+  - [12. Periksa Status Apache](#9-periksa-status-apache)
 
 ## Prasyarat
 
