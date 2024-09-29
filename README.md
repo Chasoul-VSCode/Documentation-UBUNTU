@@ -1,7 +1,7 @@
 # Setup Pack Linux by chasoul
 installer FLutter - Laravel, xamppp, and connect to database
 
-## List
+## List Pack Programming Setup
 
 - [Prasyarat](#prasyarat)
 - [Langkah-langkah Instalasi](#langkah-langkah-instalasi)
