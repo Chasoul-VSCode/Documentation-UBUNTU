@@ -74,3 +74,6 @@ sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=compose
 sudo apt update
 sudo apt install sqlite3
 sqlite3 --version
+
+# Laravel INstallation
+composer create-project laravel/laravel example-app
