@@ -2,6 +2,7 @@
 installer FLutter - Laravel, xamppp, and connect to database
 
 ## List Pack Programming Setup
+## FUll Setup? instagram : chasoul.uix
 
 - [Prasyarat](#prasyarat)
 - [Langkah-langkah Instalasi](#langkah-langkah-instalasi)
