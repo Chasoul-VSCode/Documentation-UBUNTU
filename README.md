@@ -1,6 +1,4 @@
-# Setup Lingkungan Pengembangan Ubuntu
-
-Panduan ini menjelaskan langkah-langkah untuk menyiapkan lingkungan pengembangan di Ubuntu, termasuk menginstal Google Chrome, PHP, Node.js, dan Apache.
+# Setup Linux by chasoul
 
 ## Daftar Isi
 
