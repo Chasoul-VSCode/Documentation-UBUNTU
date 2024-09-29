@@ -18,6 +18,8 @@ Panduan ini menjelaskan langkah-langkah untuk menyiapkan lingkungan pengembangan
   - [10. Install Ekstensi PHP Tambahan (Opsional)](#7-install-ekstensi-php-tambahan-opsional)
   - [11. Restart Apache](#8-restart-apache)
   - [12. Periksa Status Apache](#9-periksa-status-apache)
+- [PLaylist Content](#prasyarat)
+    - [1. Linux Installation with chasoul.uix ](#9-periksa-status-apache)
 
 ## Prasyarat
 
