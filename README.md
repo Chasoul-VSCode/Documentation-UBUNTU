@@ -69,3 +69,8 @@ HASH=`curl -sS https://composer.github.io/installer.sig`
 echo $HASH
 php -r "if (hash_file('SHA384', '/tmp/composer-setup.php') === '$HASH') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
 sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=composer
+
+# Install SQLITE3
+sudo apt update
+sudo apt install sqlite3
+sqlite3 --version
