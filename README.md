@@ -53,3 +53,11 @@ node -v
 sudo apt update
 sudo apt install apache2
 sudo systemctl status apache2
+
+# Install NPM
+sudo apt install nodejs npm
+ln -s /usr/bin/nodejs /usr/bin/node
+node --version
+npm --version
+
+
