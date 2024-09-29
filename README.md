@@ -34,7 +34,12 @@ sudo apt update && sudo apt upgrade -y
 sudo apt update
 
 # Install new PHP 8.3 packages
+sudo dpkg -l | grep php | tee packages.txt
+sudo add-apt-repository ppa:ondrej/php
+sudo apt update
 sudo apt install php8.3 php8.3-cli php8.3-{bz2,curl,mbstring,intl}
+sudo apt install php8.3-fpm
+sudo a2enconf php8.3-fpm
 php -v
 
 # Install node js
